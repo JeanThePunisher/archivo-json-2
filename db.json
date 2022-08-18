@@ -2,7 +2,7 @@
   "items": [
     {
       "id": 1,
-      "item": "Inicio", "Portafolio", "Asignaturas", "Horarios", "Estadísticas", "Configuración",
+      "item": ["Inicio", "Portafolio", "Asignaturas", "Horarios", "Estadísticas", "Configuración"],
       "usuario": "Jeandavid"
     },
     {
