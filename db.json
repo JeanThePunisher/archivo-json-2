@@ -1,0 +1,76 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "item": "Inicio"
+    },
+    {
+      "id": 1,
+      "item": "Portafolio"
+    },
+    {
+      "id": 1,
+      "item": "Asignaturas"
+    },
+    {
+      "id": 1,
+      "item": "Horarios"
+    },
+    {
+      "id": 1,
+      "item": "Estadísticas"
+    },
+    {
+      "id": 1,
+      "item": "Inicio"
+    },
+    {
+      "id": 2,
+      "item": "Inicio"
+    },
+    {
+      "id": 2,
+      "item": "configuración"
+    },
+    {
+      "id": 2,
+      "item": "Estadisticas"
+    },
+    {
+      "id": 2,
+      "item": "Notas"
+    },
+    {
+      "id": 3,
+      "item": "Inicio"
+    },
+    {
+      "id": 3,
+      "item": "Compras"
+    },
+    {
+      "id": 3,
+      "item": "Productos"
+    },
+    {
+      "id": 4,
+      "item": "Inicio"
+    },
+    {
+      "id": 4,
+      "item": "Juguetes"
+    },
+    {
+      "id": 4,
+      "item": "Herramientas"
+    },
+    {
+      "id": 4,
+      "item": "Sueldo"
+    },
+    {
+      "id": 4,
+      "item": "Configuración"
+    }
+  ]
+}
