@@ -2,36 +2,22 @@
   "items": [
     {
       "id": 1,
-      "item": "Inicio",
-      "item": "Portafolio",
-      "item": "Asignaturas",
-      "item": "Horarios",
-      "item": "Estadísticas",
-      "item": "Configuración",
+      "item": "Inicio", "Portafolio", "Asignaturas", "Horarios", "Estadísticas", "Configuración",
       "usuario": "Jeandavid"
     },
     {
       "id": 2,
-      "item": "Inicio",
-      "item": "configuración",
-      "item": "Estadisticas",
-      "item": "Notas",
+      "item": "Inicio", "configuración", "Estadisticas", "Notas",
       "usuario": "Jose"
     },
     {
       "id": 3,
-      "item": "Inicio",
-      "item": "Compras",
-      "item": "Productos",
+      "item": "Inicio", "Compras", "Productos",
       "usuario": "Pedro"
     },
     {
       "id": 4,
-      "item": "Inicio",
-      "item": "Juguetes",
-      "item": "Herramientas",
-      "item": "Sueldo",
-      "item": "Configuración",
+      "item": "Inicio", "Juguetes", "Herramientas", "Sueldo", "Configuración",
       "usuario": "Moreno"
     }
   ]
