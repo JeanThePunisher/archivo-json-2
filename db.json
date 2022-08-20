@@ -12,24 +12,24 @@
     {
       "id": 2,
       "item1": "Inicio",
-      "item"2: "configuración",
-      "item"3: "Estadisticas",
-      "item"4: "Notas"
+      "item2": "configuración",
+      "item3": "Estadisticas",
+      "item4": "Notas"
     },
     {
       "id": 3,
-      "item"1: "Inicio",
-      "item"2: "Compras",
-      "item"3: "Productos"
+      "item1": "Inicio",
+      "item2": "Compras",
+      "item3": "Productos"
 
     },
     {
       "id": 4,
-      "item"1: "Inicio",
-      "item"2: "Juguetes",
-      "item"3: "Herramientas",
-      "item"4: "Sueldo",
-      "item"5: "Configuración"
+      "item1": "Inicio",
+      "item2": "Juguetes",
+      "item3": "Herramientas",
+      "item4": "Sueldo",
+      "item5": "Configuración"
     }
   ]
 }
