@@ -11,25 +11,25 @@
     },
     {
       "id": 2,
-      "item": "Inicio",
-      "item": "configuración",
-      "item": "Estadisticas",
-      "item": "Notas"
+      "item1": "Inicio",
+      "item"2: "configuración",
+      "item"3: "Estadisticas",
+      "item"4: "Notas"
     },
     {
       "id": 3,
-      "item": "Inicio",
-      "item": "Compras",
-      "item": "Productos"
+      "item"1: "Inicio",
+      "item"2: "Compras",
+      "item"3: "Productos"
 
     },
     {
       "id": 4,
-      "item": "Inicio",
-      "item": "Juguetes",
-      "item": "Herramientas",
-      "item": "Sueldo",
-      "item": "Configuración"
+      "item"1: "Inicio",
+      "item"2: "Juguetes",
+      "item"3: "Herramientas",
+      "item"4: "Sueldo",
+      "item"5: "Configuración"
     }
   ]
 }
