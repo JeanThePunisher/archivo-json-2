@@ -2,93 +2,34 @@
   "items": [
     {
       "id": 1,
-      "item": "Inicio",
-      "usuario": "Jeandavid"
-    },
-    {
-      "id": 1,
-      "item": "Portafolio",
-      "usuario": "Jeandavid"
-    },
-    {
-      "id": 1,
-      "item": "Asignaturas",
-      "usuario": "Jeandavid"
-    },
-    {
-      "id": 1,
-      "item": "Horarios",
-      "usuario": "Jeandavid"
-    },
-    {
-      "id": 1,
-      "item": "Estadísticas",
-      "usuario": "Jeandavid"
-    },
-    {
-      "id": 1,
-      "item": "Configuración",
-      "usuario": "Jeandavid"
+      "item1": "Inicio",
+      "item2": "Portafolio",
+      "item3": "Asignaturas",
+      "item4": "Horarios".
+      "item5": "Estadísticas",
+      "item6": "Configuración"
     },
     {
       "id": 2,
       "item": "Inicio",
-      "usuario": "Jose"
-    },
-    {
-      "id": 2,
       "item": "configuración",
-      "usuario": "Jose"
-    },
-    {
-      "id": 2,
       "item": "Estadisticas",
-      "usuario": "Jose"
-    },
-    {
-      "id": 2,
-      "item": "Notas",
-      "usuario": "Jose"
+      "item": "Notas"
     },
     {
       "id": 3,
       "item": "Inicio",
-      "usuario": "Pedro"
-    },
-    {
-      "id": 3,
       "item": "Compras",
-      "usuario": "Pedro"
-    },
-    {
-      "id": 3,
-      "item": "Productos",
-      "usuario": "Pedro"
+      "item": "Productos"
+
     },
     {
       "id": 4,
       "item": "Inicio",
-      "usuario": "Moreno"
-    },
-    {
-      "id": 4,
       "item": "Juguetes",
-      "usuario": "Moreno"
-    },
-    {
-      "id": 4,
       "item": "Herramientas",
-      "usuario": "Moreno"
-    },
-    {
-      "id": 4,
       "item": "Sueldo",
-      "usuario": "Moreno"
-    },
-    {
-      "id": 4,
-      "item": "Configuración",
-      "usuario": "Moreno"
+      "item": "Configuración"
     }
   ]
 }
